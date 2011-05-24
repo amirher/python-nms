@@ -1,0 +1,34 @@
+RFC1213-MIB::sysDescr.0 = STRING: "APC InfraStruXure Manager (MB:v3.6.0c AF1:v4.7.0.275 AN1:isx MN:AP92200 HR:1.0 SN:WA0527110364 MD:07/05/2005)"
+RFC1213-MIB::sysObjectID.0 = OID: PowerNet-MIB::apc
+RFC1213-MIB::sysUpTime.0 = Timeticks: (1397641270) 161 days, 18:20:12.70
+RFC1213-MIB::sysContact.0 = ""
+RFC1213-MIB::sysName.0 = ""
+RFC1213-MIB::sysLocation.0 = ""
+PowerNet-MIB::experimental.2.1.0 = INTEGER: 1
+PowerNet-MIB::experimental.2.2.1.1.1 = INTEGER: 1
+PowerNet-MIB::experimental.2.2.1.2.1 = STRING: "isx4"
+PowerNet-MIB::experimental.2.2.1.3.1 = STRING: "WA0527110364"
+PowerNet-MIB::experimental.2.2.1.4.1 = INTEGER: 4
+PowerNet-MIB::experimental.2.2.1.5.1 = STRING: "APC InfraStruXure Manager"
+PowerNet-MIB::experimental.2.3.0 = INTEGER: 1
+PowerNet-MIB::experimental.2.4.1.1.1 = INTEGER: 1
+PowerNet-MIB::experimental.2.4.1.2.1 = STRING: "WA0527110364"
+PowerNet-MIB::experimental.2.4.1.3.1 = STRING: "isx"
+PowerNet-MIB::experimental.2.4.1.4.1 = STRING: "4.7.0.275"
+PowerNet-MIB::experimental.2.5.0 = INTEGER: 3
+PowerNet-MIB::experimental.2.6.1.1.1 = INTEGER: 1
+PowerNet-MIB::experimental.2.6.1.1.2 = INTEGER: 2
+PowerNet-MIB::experimental.2.6.1.1.3 = INTEGER: 3
+PowerNet-MIB::experimental.2.6.1.2.1 = INTEGER: 1
+PowerNet-MIB::experimental.2.6.1.2.2 = INTEGER: 3
+PowerNet-MIB::experimental.2.6.1.2.3 = INTEGER: 11
+PowerNet-MIB::experimental.2.6.1.3.1 = STRING: "1"
+PowerNet-MIB::experimental.2.6.1.3.2 = STRING: "1.1"
+PowerNet-MIB::experimental.2.6.1.3.3 = STRING: "1"
+PowerNet-MIB::experimental.2.6.1.4.1 = STRING: "MTYx"
+PowerNet-MIB::experimental.2.6.1.4.2 = STRING: "ODA="
+PowerNet-MIB::experimental.2.6.1.4.3 = STRING: "MjE="
+PowerNet-MIB::experimental.2.6.1.5.1 = INTEGER: 2
+PowerNet-MIB::experimental.2.6.1.5.2 = INTEGER: 2
+PowerNet-MIB::experimental.2.6.1.5.3 = INTEGER: 1
+End of MIB

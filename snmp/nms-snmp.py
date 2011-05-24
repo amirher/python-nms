@@ -13,6 +13,9 @@ snmp_oids={
     "test" : "SNMPv2-MIB::sysUpTime.0"
 }
 
+apc_snmp_oids={
+
+}
 """
 "cpu_user" : ".1.3.6.1.4.1.2021.11.9.0",
 "cpu_system" : ".1.3.6.1.4.1.2021.11.10.0",
