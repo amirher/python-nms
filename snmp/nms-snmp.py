@@ -87,7 +87,7 @@ if __name__ == "__main__":
     for i in range (10):
         inc_raw = 0
         for k,v in snmp_oids.iteritems():
-            a = nms_snmp(oid=snmp_oids[k],DestHost="172.25.88.20")
+            a = nms_snmp(oid=snmp_oids[k],DestHost="193.146.156.54")
             data = a.query()
             if "Raw" in k:
                 inc_raw += int(data[0])
@@ -126,6 +126,5 @@ if __name__ == "__main__":
         print "Idle:", str(idle_raw[0])
         print "Idle_inc:", str(idle_raw[1])
         print "Idle %:",str(idle_raw[1]*100/total_raw[1])
-                                
+             
         time.sleep(5)
-        
